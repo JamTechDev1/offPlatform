@@ -29,4 +29,18 @@ body {
 }
 
 
+.mainVid {
+    
+    text-align: center;    
+}
 
+.camp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+p.copyright {
+    text-align: right;
+}
