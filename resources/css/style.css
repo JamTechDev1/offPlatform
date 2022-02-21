@@ -1,11 +1,11 @@
 h1, p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    color: white;
 }
 
 h1 .main {
     font-size: 50px;
-    color: white;
 }
 
 h1 .sub {
@@ -16,11 +16,16 @@ h1 .sub {
 a {
     color: aquamarine;
     font-size: 16px;
+    text-align: center;
 }
 
 p {
     font-size: 21px;
     color: grey
+}
+
+body {
+    background-color: black;
 }
 
 
